@@ -156,3 +156,9 @@ Core Libraries:
 This project is a powerful yet simple tool for fetching, analyzing, and visualizing weather forecasts. It’s perfect for beginners learning APIs and experienced developers looking for a quick weather dashboard solution.
 
 🔗 Try it out in Google Colab and explore weather trends in your city!
+
+OUTPUT :
+
+The image below is the output of the data of the day that I made this project. So the output may change acoording to the real time and wheather.
+
+![Image](https://github.com/user-attachments/assets/a7c81440-c47c-4a85-b39b-e0ba314f6b21)
