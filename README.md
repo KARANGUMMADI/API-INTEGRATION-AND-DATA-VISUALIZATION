@@ -150,3 +150,9 @@ Core Libraries:
 * Visualization: Generates a 4-panel dashboard with trends and distributions.
 
 * Export: Saves the dashboard as a PNG file.
+
+📜 Conclusion :
+
+This project is a powerful yet simple tool for fetching, analyzing, and visualizing weather forecasts. It’s perfect for beginners learning APIs and experienced developers looking for a quick weather dashboard solution.
+
+🔗 Try it out in Google Colab and explore weather trends in your city!
